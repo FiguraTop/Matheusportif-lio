@@ -92,6 +92,19 @@ Sou estudante de Desenvolvimento de Sistemas na ETEC Pedro Ferreira Alves e tenh
 
 Busco ampliar meus conhecimentos, desenvolver projetos práticos e aprimorar continuamente minhas habilidades para seguir carreira como desenvolvedor.
 
+## 📬 Contato
+
+Estou aberto a conhecer novas oportunidades, compartilhar projetos e trocar conhecimentos na área de tecnologia.
+
+<p align="left">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:SEU-EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
+
 ## Status do projeto
 
 O portfólio está em desenvolvimento contínuo. Novas melhorias, ajustes visuais e projetos poderão ser adicionados conforme minha evolução nos estudos.
