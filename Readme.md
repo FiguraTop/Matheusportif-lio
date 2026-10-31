@@ -107,10 +107,6 @@ Estou aberto a conhecer novas oportunidades, compartilhar projetos e trocar conh
 
 ## Status do projeto
 
-O portfólio está em desenvolvimento contínuo. Novas melhorias, ajustes visuais e projetos poderão ser adicionados conforme minha evolução nos estudos.
-
-## Status do projeto
-
  **Em desenvolvimento**
 
 O portfólio está em desenvolvimento contínuo e receberá melhorias visuais, novos projetos e aprimoramentos conforme minha evolução nos estudos.
